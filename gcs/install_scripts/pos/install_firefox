@@ -1,3 +1,4 @@
 tar -jxvf /opt/firefox-24.2.0esr.tar.bz2 -C /opt/
 chmod 755 /opt/firefox/firefox*
 chmod 755 /opt/firefox/run-mozilla.sh
+rm -f /opt/firefox-24.2.0esr.tar.bz2
