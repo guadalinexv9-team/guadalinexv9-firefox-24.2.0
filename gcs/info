@@ -2,7 +2,7 @@
 # Fichero de configuración de paquetes de personalización de Guadalinex v9
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: firefox-esr
+name: firefox-esr-64
 
 # Autor 
 author: Roberto C. Morano <rcmorano@emergya.es>
